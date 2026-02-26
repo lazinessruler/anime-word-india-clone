@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # <img src="public/images/AWI-SiteTitle-1.png" alt="ANIME WORLD INDIA CLONE Icon" width="120" />
 
 # ANIME WORLD INDIA CLONE
@@ -47,3 +48,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Disclaimer
 This project is for educational purposes only.
+=======
+# anime-word-india-clone
+A modern, open-source React frontend clone of Anime World India - featuring episode streaming, category browsing, and responsive design.
+>>>>>>> cd6fc2b39e2f25ea3eb454150ca980d5fadde2b7
