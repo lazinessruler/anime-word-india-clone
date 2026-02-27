@@ -1,7 +1,7 @@
 import React from 'react';
 import './TelegramModal.css';
 
-const TELEGRAM_LINK = 'https://t.me/+eFG0xD8AYd9mNjY1';
+const TELEGRAM_LINK = 'https://t.me/flexyy';
 
 export default function TelegramModal({ show, onClose }) {
   if (!show) return null;
